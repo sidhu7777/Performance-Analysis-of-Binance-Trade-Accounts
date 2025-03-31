@@ -74,7 +74,10 @@ The final scores were used to rank and select the **Top 20 Performing Accounts**
 ---
 
 **Developed For the Assignment at  [Primetrade.ai](https://primetrade.ai)**  
-**About Me**  
+
+
+**About Me** 
+
 I'm **Vineeth Raja Banala**, a Data Science graduate passionate about turning raw data into actionable insights. With hands-on experience in Python, data analysis, and machine learning, I enjoy building real-world data-driven solutions that are both structured and scalable. 
 
 
